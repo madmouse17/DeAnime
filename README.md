@@ -1,6 +1,6 @@
-# deanime
+# deAnime
 
-A new Flutter project.
+Flutter UI Project
 
 ## Getting Started
 
